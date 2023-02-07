@@ -29,7 +29,9 @@
 <br />
 
 
-![Codewars](https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro)
+
+
+[![Codewars](https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro)](https://www.codewars.com/users/rsschool_eb945d8bcfc74012) 
 <br />
 
 
