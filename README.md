@@ -32,17 +32,19 @@
 
 
 
-
-[![Codewars](https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro)](https://www.codewars.com/users/rsschool_eb945d8bcfc74012) 
-<br />
+ <img  height="140em"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyakan&theme=jolly&langs_count=8&layout=compact" />  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=katyakan&theme=jolly&show_icons=true" alt="Katya's Github readme stats">   <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=katyakan&&theme=jolly&show_icons=true" alt="katya"/>
 
 
 <details>
-  <summary>:zap: Statistics:</summary>
-   <br />
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyakan&langs_count=8&layout=compact" />
-  <br />
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=katyakan&show_icons=true" />
+  <summary>:zap: Codewars & Leetcode Statistics (click to expand):zap::</summary>
+   <br>
+  
+  
+ 
+ 
+  
+![leetcode](https://badges.peiyuan.ch/leetcode/Katya_kan/solved?difficulty=all) ![codewars](https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro)
+  
 </details>
 
 
