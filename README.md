@@ -12,8 +12,6 @@
 [<img align="left" alt="KatyaKan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KatyaKan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="KatyaKan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-
 <br />
 
 ### Languages and Tools:
@@ -38,11 +36,7 @@
 <details>
   <summary>:zap: Codewars & Leetcode Statistics (click to expand):zap::</summary>
    <br>
-  
-  
- 
- 
-  
+    
 ![leetcode](https://badges.peiyuan.ch/leetcode/Katya_kan/solved?difficulty=all) ![codewars](https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro)
   
 </details>
