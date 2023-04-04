@@ -44,8 +44,8 @@
   <summary>My Certificates :briefcase::</summary>
    <br>
     
-[<img height="100px" width="140px" src="https://user-images.githubusercontent.com/106536102/229682741-115f5a95-c135-4889-88d1-f7a115d64399.png"/>][codeacademy]
-[<img height="100px" width="140px" src="https://user-images.githubusercontent.com/106536102/229683214-738f99fb-3d73-4de2-8e80-d9bf8233c646.png"/>][freecodecamp-js]
+[<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229682741-115f5a95-c135-4889-88d1-f7a115d64399.png"/>][codeacademy]
+[<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229683214-738f99fb-3d73-4de2-8e80-d9bf8233c646.png"/>][freecodecamp-js]
   
 </details>
 
