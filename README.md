@@ -34,15 +34,24 @@
 
 
 <details>
-  <summary>:zap: Codewars & Leetcode Statistics (click to expand):zap::</summary>
+  <summary>Codewars & Leetcode Statistics (click to expand):abacus::</summary>
    <br>
     
 ![leetcode](https://badges.peiyuan.ch/leetcode/Katya_kan/solved?difficulty=all) ![codewars](https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro)
   
 </details>
-
+<details>
+  <summary>My Certificates :briefcase::</summary>
+   <br>
+    
+[<img height="100px" width="140px" src="https://user-images.githubusercontent.com/106536102/229682741-115f5a95-c135-4889-88d1-f7a115d64399.png"/>][codeacademy]
+[<img height="100px" width="140px" src="https://user-images.githubusercontent.com/106536102/229683214-738f99fb-3d73-4de2-8e80-d9bf8233c646.png"/>][freecodecamp-js]
+  
+</details>
 
 
 [linkedin]: https://www.linkedin.com/in/ekaterina-kan/
 [instagram]: https://www.instagram.com/katyakan_/
 [telegram]: https://t.me/kankatya/
+[codeacademy]: https://www.codecademy.com/profiles/Ekaterina_Kan/certificates/705dcb15de0da4dd9d9fc4f3274b430e/
+[freecodecamp-js]: https://www.freecodecamp.org/certification/kitmad/javascript-algorithms-and-data-structures/
