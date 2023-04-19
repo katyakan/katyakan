@@ -46,7 +46,10 @@
     
 [<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229682741-115f5a95-c135-4889-88d1-f7a115d64399.png"/>][codeacademy]
 [<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229683214-738f99fb-3d73-4de2-8e80-d9bf8233c646.png"/>][freecodecamp-js]
+ [<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/233000657-e9c1fe8a-731a-4c1c-9535-8c7ca5f9471c.png"/>][freecodecamp-css]
   
+ 
+
 </details>
 
 
@@ -55,3 +58,4 @@
 [telegram]: https://t.me/kankatya/
 [codeacademy]: https://www.codecademy.com/profiles/Ekaterina_Kan/certificates/705dcb15de0da4dd9d9fc4f3274b430e/
 [freecodecamp-js]: https://www.freecodecamp.org/certification/kitmad/javascript-algorithms-and-data-structures/
+[freecodecamp-css]: https://www.freecodecamp.org/certification/kitmad/responsive-web-design/
