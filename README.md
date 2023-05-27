@@ -30,8 +30,6 @@
 
 <br />
 <br />
-
-
  <img  height="120em"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyakan&theme=jolly&langs_count=8&layout=compact" />  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=katyakan&theme=jolly&show_icons=true" alt="Katya's Github readme stats"> <img height="120em" src="http://github-readme-streak-stats.herokuapp.com?user=katyakan&&theme=jolly&show_icons=true" alt="katya"/>
 
 
