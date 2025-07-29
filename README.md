@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Katya
 
-## I'm a FullStack Engineer Node.js | Nest.js | React | Vue
+## I'm a FullStack Engineer Node.js | Nest.js | React | Vue | Go 
 
 - 💪 I like to write code
 - 🎉 I love to paint and play the piano
