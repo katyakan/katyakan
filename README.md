@@ -68,5 +68,19 @@
   <a href="https://www.freecodecamp.org/certification/kitmad/responsive-web-design/">
     <img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/233000657-e9c1fe8a-731a-4c1c-9535-8c7ca5f9471c.png"/>
   </a>
+   <br>
+   <a href="/">
+    <img height="120em" width="180em" src="https://github.com/user-attachments/assets/fda1a8e3-14e2-4014-898c-5f62780ec266"/>
+  </a>
+  <a href="">
+    <img height="120em" width="180em" src=""/>
+  </a>
+  <a href="">
+    <img height="120em" width="180em" src=""/>
+  </a>
+  <a href="">
+    <img height="120em" width="180em" src=""/>
+  </a>
 <!-- </details> -->
+
 
