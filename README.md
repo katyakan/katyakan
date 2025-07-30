@@ -1,76 +1,68 @@
 ### Hi there 👋, I'm Katya
 
-## I'm a FullStack Engineer Node.js | Nest.js | React | Vue | Go 
+## I'm a FullStack Engineer (Node.js | Nest.js | React | Vue | Go)
 
-- 💪 I like to write code
-- 🎉 I love to paint and play the piano
-- 🥅 I am constantly learning new things
+- 💪 I love writing code and solving complex problems  
+- 🎨 I enjoy painting and playing the piano  
+- 📚 Lifelong learner on a mission to grow daily
 
-### Connect with me:
+---
 
+### 📬 Connect with me:
 
-[<img align="left" alt="KatyaKan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KatyaKan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="KatyaKan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ekaterina-kan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/katyakan_/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kankatya/)
 
-### Languages and Tools:
+---
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<br />
-<img align="left" alt="Docker" width="26px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
-<img align="left" alt="Next.js" width="26px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png" />
-<img align="left" alt="Nginx" width="26px" src="https://github.com/github/explore/blob/main/topics/nginx/nginx.png" />
-<img align="left" alt="Next.js" width="26px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="Nuxt" width="26px" src="https://github.com/github/explore/blob/main/topics/nuxt/nuxt.png" />
-<img align="left" alt="Postgres" width="26px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />
-<img align="left" alt="Redis" width="26px" src="https://github.com/github/explore/blob/main/topics/redis/redis.png" />
-<img align="left" alt="Mongodb" width="26px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" />
-<br />
-<img align="left" alt="Bash" width="26px" src="https://github.com/github/explore/blob/main/topics/bash/bash.png" />
-<img align="left" alt="database" width="26px" src="https://github.com/github/explore/blob/main/topics/database/database.png" />
-<img align="left" alt="gitlab" width="26px" src="https://github.com/github/explore/blob/main/topics/gitlab/gitlab.png" />
-<img align="left" alt="go" width="26px" src="https://github.com/github/explore/blob/main/topics/go/go.png" />
-<img align="left" alt="google cloud" width="26px" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png" />
-<img align="left" alt="Nest.js" width="26px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
-<br />
-<br />
-<br />
-<img  height="105em"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyakan&theme=jolly&langs_count=8&layout=compact" /><img height="105em" src="https://github-readme-stats.vercel.app/api?username=katyakan&theme=jolly&show_icons=true" alt="Katya's Github readme stats"><img height="105em" src="http://github-readme-streak-stats.herokuapp.com?user=katyakan&&theme=jolly&show_icons=true" alt="katya"/>
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="26" alt="React"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="26" alt="Vue"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="26" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="26" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="26" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" width="26" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="26" alt="Go"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="26" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="26" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" width="26" alt="Nginx"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="26" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" width="26" alt="Redux"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="26" alt="MongoDB"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=katyakan&show_icons=true&theme=jolly" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyakan&layout=compact&theme=jolly" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katyakan&theme=jolly" height="150px"/>
+</p>
+
+---
 
 <details>
-  <summary>Codewars & Leetcode Statistics (click to expand):abacus::</summary>
-   <br>
-    
-![leetcode](https://badges.peiyuan.ch/leetcode/Katya_kan/solved?difficulty=all) ![codewars](https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro)
-  
+  <summary>🏆 Codewars & Leetcode (click to expand)</summary>
+  <br>
+  <img src="https://badges.peiyuan.ch/leetcode/Katya_kan/solved?difficulty=all" />
+  <img src="https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro" />
 </details>
+
 <details>
-  <summary>My Certificates :briefcase::</summary>
-   <br>
-    
-[<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229682741-115f5a95-c135-4889-88d1-f7a115d64399.png"/>][codeacademy]
-[<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229683214-738f99fb-3d73-4de2-8e80-d9bf8233c646.png"/>][freecodecamp-js]
- [<img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/233000657-e9c1fe8a-731a-4c1c-9535-8c7ca5f9471c.png"/>][freecodecamp-css]
-  
- 
-
+  <summary>📜 Certificates</summary>
+  <br>
+  <a href="https://www.codecademy.com/profiles/Ekaterina_Kan/certificates/705dcb15de0da4dd9d9fc4f3274b430e/">
+    <img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229682741-115f5a95-c135-4889-88d1-f7a115d64399.png"/>
+  </a>
+  <a href="https://www.freecodecamp.org/certification/kitmad/javascript-algorithms-and-data-structures/">
+    <img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229683214-738f99fb-3d73-4de2-8e80-d9bf8233c646.png"/>
+  </a>
+  <a href="https://www.freecodecamp.org/certification/kitmad/responsive-web-design/">
+    <img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/233000657-e9c1fe8a-731a-4c1c-9535-8c7ca5f9471c.png"/>
+  </a>
 </details>
-
-
-[linkedin]: https://www.linkedin.com/in/ekaterina-kan/
-[instagram]: https://www.instagram.com/katyakan_/
-[telegram]: https://t.me/kankatya/
-[codeacademy]: https://www.codecademy.com/profiles/Ekaterina_Kan/certificates/705dcb15de0da4dd9d9fc4f3274b430e/
-[freecodecamp-js]: https://www.freecodecamp.org/certification/kitmad/javascript-algorithms-and-data-structures/
-[freecodecamp-css]: https://www.freecodecamp.org/certification/kitmad/responsive-web-design/
