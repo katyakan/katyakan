@@ -56,6 +56,9 @@
 <!--<details>-->
   <summary>📜 Certificates</summary>
   <br>
+   <a href="https://www.linkedin.com/learning/certificates/61527de605fb6319a4fb76e4032cdd39366fa13db737b845e94d4a20c3ad9776">
+    <img height="120em" width="180em" src="https://github.com/user-attachments/assets/8a0db382-5249-4bf2-8cc6-72052ab4c8bd"/>
+  </a>
   <a href="https://www.codecademy.com/profiles/Ekaterina_Kan/certificates/705dcb15de0da4dd9d9fc4f3274b430e/">
     <img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/229682741-115f5a95-c135-4889-88d1-f7a115d64399.png"/>
   </a>
@@ -66,3 +69,4 @@
     <img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/233000657-e9c1fe8a-731a-4c1c-9535-8c7ca5f9471c.png"/>
   </a>
 <!-- </details> -->
+
