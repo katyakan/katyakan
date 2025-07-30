@@ -28,7 +28,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <br />
-
 <img align="left" alt="Docker" width="26px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png" />
 <img align="left" alt="Next.js" width="26px" src="https://github.com/github/explore/blob/main/topics/nextjs/nextjs.png" />
 <img align="left" alt="Nginx" width="26px" src="https://github.com/github/explore/blob/main/topics/nginx/nginx.png" />
@@ -37,13 +36,13 @@
 <img align="left" alt="Postgres" width="26px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" />
 <img align="left" alt="Redis" width="26px" src="https://github.com/github/explore/blob/main/topics/redis/redis.png" />
 <img align="left" alt="Mongodb" width="26px" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png" />
+<br />
 <img align="left" alt="Bash" width="26px" src="https://github.com/github/explore/blob/main/topics/bash/bash.png" />
 <img align="left" alt="database" width="26px" src="https://github.com/github/explore/blob/main/topics/database/database.png" />
 <img align="left" alt="gitlab" width="26px" src="https://github.com/github/explore/blob/main/topics/gitlab/gitlab.png" />
 <img align="left" alt="go" width="26px" src="https://github.com/github/explore/blob/main/topics/go/go.png" />
 <img align="left" alt="google cloud" width="26px" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png" />
 <img align="left" alt="Nest.js" width="26px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png" />
-
 <br />
 <br />
 <br />
