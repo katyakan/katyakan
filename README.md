@@ -46,14 +46,14 @@
 
 ---
 
-<details>
+<!--<details>-->
   <summary>🏆 Codewars & Leetcode (click to expand)</summary>
   <br>
   <img src="https://badges.peiyuan.ch/leetcode/Katya_kan/solved?difficulty=all" />
   <img src="https://www.codewars.com/users/rsschool_eb945d8bcfc74012/badges/micro" />
-</details>
+<!--</details>-->
 
-<details>
+<!--<details>-->
   <summary>📜 Certificates</summary>
   <br>
   <a href="https://www.codecademy.com/profiles/Ekaterina_Kan/certificates/705dcb15de0da4dd9d9fc4f3274b430e/">
@@ -65,4 +65,4 @@
   <a href="https://www.freecodecamp.org/certification/kitmad/responsive-web-design/">
     <img height="120em" width="180em" src="https://user-images.githubusercontent.com/106536102/233000657-e9c1fe8a-731a-4c1c-9535-8c7ca5f9471c.png"/>
   </a>
-</details>
+<!-- </details> -->
