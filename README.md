@@ -72,16 +72,15 @@
    <a href="/">
     <img height="120em" width="180em" src="https://github.com/user-attachments/assets/fda1a8e3-14e2-4014-898c-5f62780ec266"/>
   </a>
-  <a href="https://coursera.org/share/66f9b4229a80c975d962a57f82817fe7/">
+  <a href="https://coursera.org/share/66f9b4229a80c975d962a57f82817fe7">
     <img height="120em" width="180em" src="https://github.com/user-attachments/assets/9128c550-a3d9-49d6-83b3-5e29a8a67620"/>
   </a>
-  <a href="">
-    <img height="120em" width="180em" src=""/>
+ <a href="https://coursera.org/share/825e0db8f526a173ac2716a1ec6b02a6">
+    <img height="120em" width="180em" src="https://github.com/user-attachments/assets/4236cd4f-650f-46fa-989e-a70c79f3f504"/>
   </a>
-  <a href="">
-    <img height="120em" width="180em" src=""/>
+ <a href="https://coursera.org/share/4171dd9c672c81772c2097945ec9a31c">
+    <img height="120em" width="180em" src="https://github.com/user-attachments/assets/eaea84a4-1618-4ea4-9b59-f0d0ad57bbff"/>
   </a>
 <!-- </details> -->
-
 
 
