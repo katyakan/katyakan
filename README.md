@@ -72,8 +72,8 @@
    <a href="/">
     <img height="120em" width="180em" src="https://github.com/user-attachments/assets/fda1a8e3-14e2-4014-898c-5f62780ec266"/>
   </a>
-  <a href="">
-    <img height="120em" width="180em" src=""/>
+  <a href="https://coursera.org/share/66f9b4229a80c975d962a57f82817fe7/">
+    <img height="120em" width="180em" src="https://github.com/user-attachments/assets/9128c550-a3d9-49d6-83b3-5e29a8a67620"/>
   </a>
   <a href="">
     <img height="120em" width="180em" src=""/>
@@ -82,5 +82,6 @@
     <img height="120em" width="180em" src=""/>
   </a>
 <!-- </details> -->
+
 
 
